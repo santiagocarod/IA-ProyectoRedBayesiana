@@ -1,0 +1,62 @@
+Creative
+alto 0.69932
+bajo 0.30068
+Smart
+inteligente 0.70472
+brutico 0.29528
+Party
+fiestero 0.60216
+aburrido 0.39784
+Mac
+alto inteligente tieneMac 0.68564
+alto brutico tieneMac 0.89635
+bajo inteligente tieneMac 0.41347
+bajo brutico tieneMac 0.12329
+alto inteligente NotieneMac 0.31436
+alto brutico NotieneMac 0.10365
+bajo inteligente NotieneMac 0.05653
+bajo brutico NotieneMac 0.87671
+Project
+alto inteligente siProject 0.90484
+alto brutico siProject 0.40307
+bajo inteligente siProject 0.79326
+bajo brutico siProject 0.10731
+alto inteligente noProject 0.09516
+alto brutico noProject 0.59639
+bajo inteligente noProject 0.20674
+bajo brutico noProject 0.89269
+Hw
+inteligente fiestero siHw 0.80252
+inteligente aburrido siHw 0.89790
+brutico fiestero siHw 0.09447
+brutico aburrido siHw 0.30556
+inteligente fiestero noHw 0.19748
+inteligente aburrido noHw 0.1021
+brutico fiestero noHw 0.90553
+brutico aburrido noHw 0.69444
+Success
+siProject siHw siSuccess 0.89633
+siProject noHw siSuccess 0.20737
+noProject siHw siSuccess 0.30714
+noProject noHw siSuccess 0.05066
+siProject siHw noSuccess 0.10367
+siProject noHw noSuccess 0.79263
+noProject siHw noSuccess 0.69286
+noProject noHw noSuccess 0.94934
+Happy
+siSuccess tieneMac fiestero esFeliz 0.95842
+siSuccess tieneMac aburrido esFeliz 0.35837
+siSuccess NotieneMac fiestero esFeliz 0.72082
+siSuccess NotieneMac aburrido esFeliz 0.30769
+noSuccess tieneMac fiestero esFeliz 0.49234
+noSuccess tieneMac aburrido esFeliz 0.20619
+noSuccess NotieneMac fiestero esFeliz 0.42043
+noSuccess NotieneMac aburrido esFeliz 0.09646
+siSuccess tieneMac fiestero noFeliz 0.04176
+siSuccess tieneMac aburrido noFeliz 0.64163
+siSuccess NotieneMac fiestero noFeliz 0.27918
+siSuccess NotieneMac aburrido noFeliz 0.69231
+noSuccess tieneMac fiestero noFeliz 0.50766
+noSuccess tieneMac aburrido noFeliz 0.79381
+noSuccess NotieneMac fiestero noFeliz 0.57957
+noSuccess NotieneMac aburrido noFeliz 0.90354

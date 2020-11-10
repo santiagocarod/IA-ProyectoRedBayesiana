@@ -1,0 +1,25 @@
+NivelExamen
+facil 0.7
+dificil 0.3
+NivelIq
+bajo 0.8
+alto 0.2
+PuntajeAptitud
+bajo no_apto 0.75
+bajo apto 0.25
+alto no_apto 0.4
+alto apto 0.6
+Notas
+bajo facil pierde 0.6
+bajo facil aprueba 0.4
+bajo dificil pierde 0.9
+bajo dificil aprueba 0.1
+alto facil pierde 0.5
+alto facil aprueba 0.5
+alto dificil pierde 0.2
+alto dificil aprueba 0.8
+Admision
+pierde rechazado 0.6
+pierde admitido 0.4
+aprueba rechazado 0.9
+aprueba admitido 0.1
